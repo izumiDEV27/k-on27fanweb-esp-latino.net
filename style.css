@@ -436,3 +436,8 @@ footer {
     }
 
 }
+
+#proxCAP {text-align: center;}
+#proxCAP h3 {
+  font-size: 2vw; /* se adapta al tamaño de la pantalla */
+}
